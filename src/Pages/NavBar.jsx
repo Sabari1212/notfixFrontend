@@ -15,7 +15,7 @@ const NavBar = () => {
   return (
     <div className='flex justify-between m-5'>
         <div>
-            <h1 className='text-3xl md:text-5xl font-bold text-red-500'>NOTFLIX</h1>
+            <h1 className='text-3xl md:text-5xl font-bold text-red-500'>NETFLIX</h1>
 
         </div>
         {!token &&
